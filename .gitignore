@@ -1,0 +1,4 @@
+# Money data never goes into this repository: backups and exports stay on your devices
+*.json
+!manifest.json
+*.csv
